@@ -1,0 +1,23 @@
+Good Morning Mr. Ahmed Break
+
+Task should be started on Saturday 10:00 am, 19th of February.
+
+Task: Invoice App. (Basic)
+
+Task Frameworks:
+- Angular 10+
+- .Net Core
+
+Application needs:
+1- User authentication.
+2- Invoice "CRUD"
+3- Applying Parent/Child Compnents
+
+NOTE: 
+Invoice entities structure is up to you,
+which means you decide what fields must be placed in Invoice tables (no complexity needed for this task).
+
+Best of luck.
+Mustafa ALsuhaibi 
+
+Ultimate Solutions Team

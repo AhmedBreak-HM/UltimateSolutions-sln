@@ -1,0 +1,27 @@
+<div class="container">
+  <div class="row">
+    <div class="col-9 col-sm-7 col-md-5 col-lg-4 mx-auto mt-5">
+      <div class="card">
+        <div class="card-body shadow-lg">
+          <h2 class="card-title text-left font-weight-bold mb-3">Sign in</h2>
+
+          <form class="card-text">
+            <div class="form-group">
+              <input required formControlName="username" type="text" class="form-control" placeholder="name">
+              <div class="invalid-feedback">برجاءادخال الاسم</div>
+            </div>
+            <div class="form-group">
+              <input required formControlName="username" type="text" class="form-control" placeholder="password">
+              <div class="invalid-feedback">برجاءادخال كلمة السر</div>
+            </div>
+
+          </form>
+        </div>
+
+        <div class="bg-white border-top">
+          <p class="pl-4 mt-2">You have an account? <a style="cursor: pointer;" class="primary" routerLink="/auth/login">LogIn</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
